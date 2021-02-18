@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AkylaiSh
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning basics of html, ruby, js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👧🏻 Hi, I’m @AkylaiSh
+- 💖 I’m interested in coding, film photographing, piano playing, dancing, singing, cooking, HIIT and cardio.
+- 💻 I’m currently learning basics of html, ruby, js.
+- 📫 How to reach me ... aka47sharipova@gmail.com
+- 
 
 <!---
 AkylaiSh/AkylaiSh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
