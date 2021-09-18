@@ -1,6 +1,6 @@
 - 👧🏻 Hi, I’m @AkylaiSh
-- 💖 I’m interested in coding, film photographing, piano playing, dancing, singing, cooking, HIIT and cardio.
-- 💻 I’m currently learning basics of html, ruby, js.
+- 💖 Toy puddle dogs
+- 💻 Java, HTML, CSS
 - 📫 How to reach me ... aka47sharipova@gmail.com
 - 
 
