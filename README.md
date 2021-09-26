@@ -1,5 +1,5 @@
 - 👧🏻 Hi, I’m @AkylaiSh
-- 💖 Toy puddle dogs
+- 💖 Chow chow dogs
 - 💻 Java, HTML, CSS
 - 📫 How to reach me ... aka47sharipova@gmail.com
 - 
